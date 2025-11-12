@@ -1,25 +1,41 @@
-# _data/locales/pl.yml
+name: "Polski"
+meta: "Powered by :PLATFORM with :THEME theme."
+site_title: "Mój blog"
+tagline: "Krótki opis witryny"
+
+tabs:
+  home: "Strona główna"
+  archives: "Archiwum"
+  categories: "Kategorie"
+  tags: "Tagi"
+  about: "O mnie"
+  projects: "Projekty"
+
+pagination:
+  prev: "← Poprzednie"
+  next: "Następne →"
+
+search:
+  placeholder: "Szukaj..."
+  no_results: "Brak wyników"
 
 post:
-  written_by: "Autor"
-  posted: "Opublikowano"
+  reading_time: "Czas czytania"
   updated: "Zaktualizowano"
-  read_time: "min czytania"
-  read_more: "Czytaj dalej"
-  related_posts: "Powiązane wpisy"
-  comments: "Komentarze"
 
-categories: "Kategorie"
-tags: "Tagi"
-archives: "Archiwum"
-search: "Szukaj"
-search_placeholder: "Wpisz szukaną frazę..."
-recent_posts: "Najnowsze wpisy"
-load_more: "Załaduj więcej"
+footer:
+  copyright: "© :year :author. Wszelkie prawa zastrzeżone."
 
-ui:
-  toc: "Spis treści"
-  back_to_top: "Do góry"
-  share: "Udostępnij"
-  copy_link: "Kopiuj link"
-  copied: "Skopiowano!"
+months:
+  - "stycznia"
+  - "lutego"
+  - "marca"
+  - "kwietnia"
+  - "maja"
+  - "czerwca"
+  - "lipca"
+  - "sierpnia"
+  - "września"
+  - "października"
+  - "listopada"
+  - "grudnia"
