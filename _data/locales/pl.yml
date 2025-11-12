@@ -1,0 +1,25 @@
+# _data/locales/pl.yml
+
+post:
+  written_by: "Autor"
+  posted: "Opublikowano"
+  updated: "Zaktualizowano"
+  read_time: "min czytania"
+  read_more: "Czytaj dalej"
+  related_posts: "Powiązane wpisy"
+  comments: "Komentarze"
+
+categories: "Kategorie"
+tags: "Tagi"
+archives: "Archiwum"
+search: "Szukaj"
+search_placeholder: "Wpisz szukaną frazę..."
+recent_posts: "Najnowsze wpisy"
+load_more: "Załaduj więcej"
+
+ui:
+  toc: "Spis treści"
+  back_to_top: "Do góry"
+  share: "Udostępnij"
+  copy_link: "Kopiuj link"
+  copied: "Skopiowano!"
