@@ -1,0 +1,91 @@
+# Teksty układu strony
+
+# ----- Wspólne etykiety -----
+
+layout:
+  post: Post
+  category: Kategoria
+  tag: Tag
+
+# Zakładki w pasku bocznym
+tabs:
+  # format: <nazwa_pliku_bez_rozszerzenia>: <wartość>
+  home: Strona główna
+  categories: Kategorie
+  tags: Tagi
+  archives: Archiwum
+  about: O stronie
+
+# Tekst wyświetlany w pasku wyszukiwania i wynikach wyszukiwania
+search:
+  hint: szukaj
+  cancel: Anuluj
+  no_results: Ups! Nie znaleziono wyników.
+
+panel:
+  lastmod: Ostatnio zaktualizowane
+  trending_tags: Popularne tagi
+  toc: Spis treści
+
+copyright:
+  # Wyświetlane na dole posta
+  license:
+    template: Ten post jest licencjonowany na warunkach :LICENSE_NAME przez autora.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Wyświetlane w stopce
+  brief: Wszelkie prawa zastrzeżone w pewnym zakresie.
+  verbose: >-
+    O ile nie zaznaczono inaczej, posty na tym blogu są licencjonowane
+    na warunkach licencji Creative Commons Uznanie autorstwa 4.0 Międzynarodowa (CC BY 4.0) przez autora.
+
+meta: Używając motywu :THEME dla :PLATFORM.
+
+not_found:
+  statement: Przepraszamy, ten adres URL jest nieprawidłowy lub prowadzi do nieistniejącej strony.
+
+notification:
+  update_found: Dostępna jest nowa wersja treści.
+  update: Aktualizuj
+
+# ----- Etykiety związane z postami -----
+
+post:
+  written_by: Autor
+  posted: Opublikowano
+  updated: Zaktualizowano
+  words: słowa
+  pageview_measure: wyświetlenia
+  read_time:
+    unit: min
+    prompt: czytania
+  relate_posts: Powiązane posty
+  share: Udostępnij
+  button:
+    next: Nowszy
+    previous: Starszy
+    copy_code:
+      succeed: Skopiowano!
+    share_link:
+      title: Skopiuj link
+      succeed: Link został pomyślnie skopiowany!
+
+# Format daty i czasu.
+# Zobacz: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
+df:
+  post:
+    strftime: "%e %b %Y"
+    dayjs: "ll"
+  archives:
+    strftime: "%b"
+    dayjs: "MMM"
+
+# Strona kategorii
+categories:
+  category_measure:
+    singular: kategoria
+    plural: kategorie
+  post_measure:
+    singular: post
+    plural: posty
