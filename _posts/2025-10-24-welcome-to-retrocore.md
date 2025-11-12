@@ -1,25 +1,25 @@
 ---
-title: Welcome to RetroCore
+title: Witamy w RetroCore
 date: 2025-10-24 12:00:00 +0100
-categories: [Meta, Introduction]
-tags: [retro, gaming, computers, introduction]
+categories: [Meta, Wprowadzenie]
+tags: [retro, gry, komputery, wprowadzenie]
 author: your_name
 image:
   path: /assets/img/welcome.jpg
-  alt: Retro gaming setup
+  alt: Zestaw do retro gamingu
 ---
 
-Welcome to RetroCore! This blog is dedicated to exploring the fascinating world of vintage computers, classic video games, and forgotten technology.
+Witamy w RetroCore! Ten blog jest poświęcony fascynującemu światu komputerów vintage, klasycznych gier wideo oraz zapomnianych technologii.
 
-## What to Expect
+## Czego się spodziewać
 
-- **Retro Computer Reviews**: Deep dives into classic systems like the Commodore 64, Amiga, and early PCs
-- **Classic Game Analysis**: Reviews and retrospectives on games that defined generations
-- **Restoration Projects**: Follow along as I restore and repair vintage hardware
-- **Tech History**: Stories about the pioneers and innovations that shaped computing
+- **Recenzje komputerów retro**: Dogłębne analizy klasycznych systemów, takich jak Commodore 64, Amiga czy wczesne komputery PC
+- **Analizy klasycznych gier**: Recenzje i retrospekcje tytułów, które zdefiniowały całe pokolenia
+- **Projekty renowacyjne**: Śledź moje postępy w przywracaniu do życia starego sprzętu
+- **Historia technologii**: Opowieści o pionierach i innowacjach, które ukształtowały świat informatyki
 
-## Why Retro Tech Matters
+## Dlaczego technologia retro ma znaczenie
 
-The golden age of computing wasn't just about technology—it was about creativity, experimentation, and pushing boundaries with limited resources...
+Złota era komputerów to nie tylko technologia — to także kreatywność, eksperymenty i przekraczanie granic z ograniczonymi zasobami...
 
-Stay tuned for more content!
+Zostań z nami po więcej treści!
